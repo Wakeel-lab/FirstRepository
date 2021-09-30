@@ -1,1 +1,7 @@
 Wakeel Olajide Saliu is a FullStack .net developer.
+His following skills are:
+C#
+TypeScript
+JavaScript
+Angular
+React
