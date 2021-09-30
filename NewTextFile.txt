@@ -3,5 +3,12 @@ His following skills are:
 C#
 TypeScript
 JavaScript
+SQL
 Angular
 React
+Others are:
+Bootstrap
+Xamarin
+Data Design
+SOLID Principle
+MongoDB
