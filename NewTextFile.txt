@@ -11,4 +11,6 @@ Bootstrap
 Xamarin
 Data Design
 SOLID Principle
-MongoDB
+MongoDB.
+
+Will switch to AI/ML in a few years time.
